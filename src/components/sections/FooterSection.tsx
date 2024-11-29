@@ -12,7 +12,7 @@ function FooterSection() {
   const contacts = [
     "+44 7404 459482",
     "info@careerconnectint.com",
-    "United Kingdom",
+    "Unit : 105, 56-60 Nelson Street E1 2DE",
   ];
 
   const socials = [

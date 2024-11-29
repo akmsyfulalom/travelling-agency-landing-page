@@ -7,8 +7,7 @@ Travellian website built with Next14, Shadcn, Framer motion and Tailwind.
 # Youtube
 https://youtu.be/EPZePmH3Adc
 
-# ☁️ Deployed link
-https://travelling-agency-landing-page.vercel.app/
+
 
 Figma:  
 https://www.figma.com/file/1f8fweTs5K7CsHqvgRdtmQ/Travellian---Travel-Agency-Landing-Page-(Community)?type=design&node-id=3-47&mode=design&t=2z3uA57kT29x3mL9-0
