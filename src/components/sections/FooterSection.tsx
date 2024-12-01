@@ -1,7 +1,7 @@
 import React from "react";
 
 function FooterSection() {
-  const menus = ["Home", "Explore", "Visa", "Blog", "Pricing"];
+  const menus = ["Home", "About Us", "Visa", "Article", "Contact"];
   const informations = [
     "Destinations",
     "Supports",

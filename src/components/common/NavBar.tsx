@@ -13,7 +13,7 @@ function NavBar() {
     setMenu(!menu);
   };
 
-  const links = ["Home", "Explore", "Travel", "Blog", "Pricing"];
+  const links = ["Home", "About Us", "Visa", "Explore", "Contact Us"];
 
   return (
     <div className="md:sticky md:top-0   md:shadow-none z-20 ">
