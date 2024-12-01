@@ -1,7 +1,7 @@
 import React from "react";
 
 function FooterSection() {
-  const menus = ["Home", "Explore", "Travel", "Blog", "Pricing"];
+  const menus = ["Home", "Explore", "Visa", "Blog", "Pricing"];
   const informations = [
     "Destinations",
     "Supports",
@@ -27,7 +27,7 @@ function FooterSection() {
         <div className="max-w-[250px] max-h-[100px]">
           <img src="/images/footer_logo1.png" alt="footer logo" />
         </div>
-        <p className="pt-5">Copyright © Travellian 2020 All rights reserved</p>
+        <p className="pt-5">Copyright © Career Connect Int 2020 All rights reserved</p>
       </div>
       <div>
         <p className="font-medium text-[24px] mb-2">Menu</p>
