@@ -10,7 +10,7 @@ function FooterSection() {
   ];
 
   const contacts = [
-    "+44 7404 459482",
+    "020 3561 3704",
     "info@careerconnectint.com",
     "Unit : 105, 56-60 Nelson Street E1 2DE",
   ];
