@@ -84,10 +84,10 @@ function HeroSection({
             "mx-8 xl:mx-[184px]"
           )}
         >
-          Start your unforgettable <br /> journey with us.
+          Empowering Global Careers
         </p>
         <p className="text-24 text-white font-normal mt-3 mx-8 xl:mx-[184px]">
-          The best travel for your jouney begins now
+        Connecting Talent with Opportunities Across Borders
         </p>
       </div>
 

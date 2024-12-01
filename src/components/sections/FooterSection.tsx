@@ -33,7 +33,7 @@ function FooterSection() {
         <p className="font-medium text-[24px] mb-2">Menu</p>
         <div className="flex flex-col gap-3">
           {menus.map((item, index) => (
-            <p key={index}>{item}</p>
+            <p className="whitespace-nowrap" key={index}>{item}</p>
           ))}
         </div>
       </div>

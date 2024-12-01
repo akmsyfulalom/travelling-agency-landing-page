@@ -27,7 +27,7 @@ function NavBar() {
             {links.map((link, index) => (
               <div key={index}>
                 <p
-                  className={`hover:text-primary cursor-pointer flex items-center gap-2  font-[500] text-white`}
+                  className={`hover:text-primary cursor-pointer flex items-center gap-2  font-[500] text-white whitespace-nowrap`}
                 >
                   {link}
                 </p>
